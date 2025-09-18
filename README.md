@@ -11,8 +11,8 @@ This project is a machine learning-based image classification task where the goa
 
 - Python 3.x
 - OpenCV
--Scikit-learn
--Numpy
+- Scikit-learn
+- Numpy
 
 # How It Works:
 
@@ -28,7 +28,7 @@ This project is a machine learning-based image classification task where the goa
 
 Clone the repository:
 
-git clone https://github.com/akibkhan/burger-or-taco-svm.git
+git clone https://github.com/akibkhan/burger-or-taco-svm.git 
 
 
 Install required libraries:
